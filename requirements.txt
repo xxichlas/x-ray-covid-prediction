@@ -1,0 +1,4 @@
+flask
+numpy==1.23.5
+keras
+tensorflow
